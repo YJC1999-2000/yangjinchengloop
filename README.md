@@ -1,6 +1,6 @@
 # yangjinchengloop
 
-Workspace repository watched by **dsh-superagent**, a research prototype agent that takes work from GitHub issues.
+Repository watched by **dsh-superagent**, a research prototype agent that takes work from GitHub issues.
 
 ## How to ask for work
 
